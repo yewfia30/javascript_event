@@ -25,6 +25,6 @@ This part will be done by Supplier
 
 ## Annotation
 Actually, I will handle it when the event comes from dll or somthing like that.  
-If the button on the screen is pressed instead,  
+In this sample, I am using the button on the screen is pressed instead,  
 Fire myevent1 when the func1 button is pressed  
 Fire myevent2 when the func2 button is pressed
