@@ -15,9 +15,9 @@ This part will be done by Supplier
 
 ## Description
 - init method
---  Set up a listener for your own event at initialization
---  If it is myevent1, the alert shows fired 1
---  If it is myevent2, the alert shows fired 2
+-- Set up a listener for your own event at initialization
+-- If it is myevent1, the alert shows fired 1
+-- If it is myevent2, the alert shows fired 2
 
 - func1 and func2 method
 -- make event object and specify event type
