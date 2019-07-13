@@ -5,21 +5,21 @@ how to use original event in Javascript
 - Use dispatchEvent
 
 - Prepare one object, anything is good
- Using Link object in this sample
+  Using Link object in this sample
 
--Add your own event listener to this link
- This part will be done by User
+- Add your own event listener to this link
+  This part will be done by User
 
--Fire your own event
- This part will be done by Supplier
+- Fire your own event
+  This part will be done by Supplier
 
 ## Description
--init method
- Set up a listener for your own event at initialization
- If it is myevent1, the alert shows fired 1
- If it is myevent2, the alert shows fired 2
+- init method
+  Set up a listener for your own event at initialization
+  If it is myevent1, the alert shows fired 1
+  If it is myevent2, the alert shows fired 2
 
--func1 and func2 method
+- func1 and func2 method
  make event object and specify event type
  and fire event by dispatchEvent
 
